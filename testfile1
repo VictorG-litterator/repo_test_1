@@ -10,6 +10,6 @@
 
 
 public class example1 {
-	int a= 1,
-	int b
+	int a= 1;
+	int b;
 }
