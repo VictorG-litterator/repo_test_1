@@ -1,9 +1,15 @@
-asdf
+// asdf
 
- 		22
-mod 1
+// 		22
+//mod 1
 
-mod 2
+//mod 2
 
 
-mod 3 desde github
+// mod 3 desde github 
+
+
+public class example1 {
+	int a= 1,
+	int b
+}
